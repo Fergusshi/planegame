@@ -22,6 +22,7 @@ public class MyGameFrame extends Frame {
     Image background = GameUtil.getImage("images/bg.jpg");
     int planeX = 250;
     int planeY = 250;
+    int tryforsomething = 10;
     Plane planeimg = new Plane(plane,250,250 );
     Shell shell = new Shell();
     Shell[] shells = new Shell[50];
